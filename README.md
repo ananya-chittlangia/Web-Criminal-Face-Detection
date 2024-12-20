@@ -71,11 +71,6 @@ Follow these steps to set up and use the application:
 
 ---
 
-## Screenshots  
-(Add a screenshot of your interface or a snapshot of live detection in action here.)  
-
----
-
 ## Technologies Used  
 - **Backend**: Python, Flask  
 - **Frontend**: HTML, CSS  
