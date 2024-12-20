@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Face Recognition System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Face Recognition System</h1>
+        
+        <div class="video-container">
+            <img id="video-feed" src="{{ url_for('video_feed') }}" alt="Video Feed">
+        </div>
+
+        <div class="known-faces-container">
+            <h2>Known Faces</h2>
+            <ul id="known-faces-list"></ul>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
