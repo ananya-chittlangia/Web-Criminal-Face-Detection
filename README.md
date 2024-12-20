@@ -12,7 +12,8 @@ This project is a real-time face recognition surveillance system designed for id
 
 ---
 
-![Website-FrontEnd](https://github.com/user-attachments/assets/f1af2831-ac49-4b60-8f6b-920585e1d74c)
+![Website-FrontEnd](https://github.com/user-attachments/assets/c2cd0c91-7280-48d2-b507-0d2d3b6df0e9)
+
 
 ---
 
