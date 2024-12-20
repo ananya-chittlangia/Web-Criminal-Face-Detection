@@ -8,7 +8,8 @@ This project is a real-time face recognition surveillance system designed for id
 - Detect and recognize faces in real-time using a webcam.  
 - Integrates a customizable database (`known_faces` directory) for storing images of known individuals.  
 - Displays details such as name, age, and criminal history for recognized faces.  
-- Highlights recognized faces with green rectangles and provides zoomed-in details for suspects, while marking unrecognized faces in red.  
+- Highlights recognized faces with green rectangles and provides zoomed-in details for suspects, while marking unrecognized faces in red.
+- The website is highly customizable thanks to its simple and minimalist design. 
 
 ---
 
